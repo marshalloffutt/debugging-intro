@@ -2,6 +2,6 @@ console.log("hello!")
 
 const name = "Fred"
 
-if (nmae === "Fred") {
+if (name === "Fred") {
    console.log("Hello Fred")
 }
