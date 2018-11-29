@@ -1,4 +1,4 @@
  # Debugging Intro
  
  ## Description
- A playground for testing some basic debugging tools.
+ A playground for testing some of the most basic debugging tools.
